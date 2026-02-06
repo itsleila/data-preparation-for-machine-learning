@@ -4,13 +4,13 @@ Este repositório reúne **três projetos práticos** com listas de exercícios 
 
 Os projetos têm como foco o **aprendizado prático de técnicas essenciais de Feature Engineering**, mostrando como diferentes escolhas de pré-processamento impactam a representação dos dados, a interpretabilidade e o desempenho de modelos preditivos.
 
----
 
 ## Estrutura do Repositório
 
 O repositório está organizado nos seguintes diretórios:
 
-### 1. Palmer Penguins – Data Preparation for Machine Learning
+### 1. Palmer Penguins – Data Preparation for Machine Learning 
+`palmer-penguins-preprocessing`
 
 Exercícios de pré-processamento de dados numéricos utilizando o dataset **Palmer Penguins**.
 
@@ -36,7 +36,7 @@ Exercícios de pré-processamento de dados numéricos utilizando o dataset **Pal
 ---
 
 ### 2. Feature Engineering e Vetorização de Texto
-
+`machine-learning-vectorization`
 Projeto focado em **processamento de dados textuais** e **vetorização de variáveis categóricas**, aplicado a problemas de classificação.
 
 #### Conteúdos abordados
@@ -69,7 +69,7 @@ Projeto focado em **processamento de dados textuais** e **vetorização de vari�
 ---
 
 ### 3. Feature Engineering e Pré-processamento de Dados
-
+`preprocessing-feature-engineering`
 Exercícios práticos de **engenharia de atributos**, **seleção de features** e **processamento de linguagem natural (NLP)**.
 
 #### Conteúdos abordados
@@ -105,7 +105,6 @@ Exercícios práticos de **engenharia de atributos**, **seleção de features** 
 - Pandas
 - NumPy
 
----
 
 ## Objetivo
 
